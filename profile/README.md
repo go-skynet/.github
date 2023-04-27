@@ -14,7 +14,7 @@ Join our community on:
 - [Discord](https://discord.gg/JgsnuMTU)
 - [Forum](https://github.com/go-skynet/LocalAI/discussions)
 
-
+You can also follow up [@mudler](https://twitter.com/mudler_it/) on Twitter for updates.
 
 <!--
 
