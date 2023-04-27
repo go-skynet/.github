@@ -2,7 +2,7 @@
 
 Welcome to the go-skynet's org!
 
-Go-skynet is a community-driven organization. It was initially created by [mudler](https://github.com/mudler/) at the [SpectroCloud OSS office](https://github.com/spectrocloud).
+Go-skynet is a community-driven organization. It was initially created by [mudler](https://github.com/mudler/) at the [SpectroCloud OSS Office](https://github.com/spectrocloud).
 
 go-skynet goal is to enable anyone democratize and run AI locally. [LocalAI](https://github.com/go-skynet/LocalAI) is a REST API that allows any software written for OpenAI to use local inferencing models instead. 
 Uses [ggml](https://github.com/ggerganov/ggml), [gpt4all](https://github.com/nomic-ai/gpt4all) and [llama.cpp](https://github.com/ggerganov/llama.cpp) to encompass all model types under an unified API.
