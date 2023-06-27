@@ -8,30 +8,11 @@ go-skynet goal is to enable anyone democratize and run AI locally.
 
 In this organization you can find bindings for running LLMs with [ggml](https://github.com/ggerganov/ggml) and [llama.cpp](https://github.com/ggerganov/llama.cpp) in golang and [LocalAI](https://github.com/go-skynet/LocalAI), a REST API that allows any software written for OpenAI to use local inferencing.
 
-<details>
-  
-| Backend and Bindings                                                             | Compatible models     | Completion/Chat endpoint | Audio transcription/Image | Embeddings support                | Token stream support |
-|----------------------------------------------------------------------------------|-----------------------|--------------------------|---------------------------|-----------------------------------|----------------------|
-| [llama](https://github.com/ggerganov/llama.cpp) ([binding](https://github.com/go-skynet/go-llama.cpp))         | Vicuna, Alpaca, LLaMa | yes                      | no                        | yes (doesn't seem to be accurate) | yes                  |
-| [gpt2](https://github.com/ggerganov/ggml) ([binding](https://github.com/go-skynet/go-ggml-transformers.cpp))             | GPT2, Cerebras    | yes                      | no                        | no                                | no                   |
-| [dolly](https://github.com/ggerganov/ggml) ([binding](https://github.com/go-skynet/go-ggml-transformers.cpp))            | Dolly                 | yes                      | no                        | no                                | no                   |
-| [gptj](https://github.com/ggerganov/ggml) ([binding](https://github.com/go-skynet/go-ggml-transformers.cpp))        | GPTJ             | yes                      | no                        | no                                | no                   |
-| [mpt](https://github.com/ggerganov/ggml) ([binding](https://github.com/go-skynet/go-ggml-transformers.cpp))         | MPT     | yes                      | no                        | no                                | no                   |
-| [replit](https://github.com/ggerganov/ggml) ([binding](https://github.com/go-skynet/go-ggml-transformers.cpp))        | Replit             | yes                      | no                        | no                                | no                   |
-| [gptneox](https://github.com/ggerganov/ggml) ([binding](https://github.com/go-skynet/go-ggml-transformers.cpp))        | GPT NeoX, RedPajama, StableLM             | yes                      | no                        | no                                | no                   |
-| [starcoder](https://github.com/ggerganov/ggml) ([binding](https://github.com/go-skynet/go-ggml-transformers.cpp))        | Starcoder             | yes                      | no                        | no                                | no                   |
-| [bloomz](https://github.com/NouamaneTazi/bloomz.cpp) ([binding](https://github.com/go-skynet/bloomz.cpp))       | Bloom                 | yes                      | no                        | no                                | no                   |
-| [bert](https://github.com/skeskinen/bert.cpp) ([binding](https://github.com/go-skynet/go-bert.cpp)) | bert                  | no                       | no                  | yes                               | no                   |   
-
-</details>
-
 Feel free to open issues, ask questions, and open up PRs!
 
-Join our community on:
-
-- [Discord](https://discord.gg/JgsnuMTU)
-- [Forum](https://github.com/go-skynet/LocalAI/discussions)
-- [Twitter](https://twitter.com/LocalAI_API)
+Join our community on [Discord](https://discord.gg/JgsnuMTU) and on [Github discussions](https://github.com/go-skynet/LocalAI/discussions).
+  
+👉👉 For the latest LocalAI news, follow me on Twitter [@mudler_it](https://twitter.com/mudler_it) and GitHub ( [mudler](https://github.com/mudler/) ) and stay tuned to [@LocalAI_API](https://twitter.com/LocalAI_API).
 
 <!--
 
