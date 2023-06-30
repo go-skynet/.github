@@ -2,7 +2,7 @@
 
 Welcome to the go-skynet's org!
 
-Go-skynet is a community-driven organization created by [mudler](https://github.com/mudler/). It is meant as a golang developer collective that share interests for AI and see flourish the AI ecosystem also in the Golang language.
+Go-skynet is a community-driven organization created by [mudler](https://github.com/mudler/). It is meant as a golang developer collective for people who share interest for AI and want to help to see flourish the AI ecosystem also in the Golang language.
 
 go-skynet goal is to enable anyone democratize and run AI locally. 
 
